@@ -1,0 +1,20 @@
+1.String is a collection of characters in a double codes is known as String
+
+2.There are two types of Strings:
+   
+   *Immutable Strings
+   *Mutable Strings
+
+3.Three types
+
+  *String brand = "pw";
+  *String Brand1 = new String("pw");
+  *char ch[] = {'p','w'};
+   String a = new String(ch);
+
+4.String constat pole is nothing but a storage area in java heap where string literals are stored
+
+5.Mutable:We can change our Current object
+  Immutable:We cannot change our Current object but it creates other object
+
+6. sting constant pole is locatd in heap memoey 
